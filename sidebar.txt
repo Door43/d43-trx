@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[trx:home|Door43 (trx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-trx|d43-trx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-trx/archive/master.zip|d43-trx.zip]]
+
+**Recent Changes**
+{{changes>ns = trx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/trx|Ethnologue data]]
+
